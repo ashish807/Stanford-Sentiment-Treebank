@@ -1,4 +1,4 @@
-# Stanford-Sentiment-Treebank-
+# Stanford-Sentiment-Treebank
 
 Not completed yet
 
